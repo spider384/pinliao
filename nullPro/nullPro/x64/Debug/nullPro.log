@@ -1,0 +1,4 @@
+﻿  UI2.cpp
+D:\visual studio 2022\VC\Tools\MSVC\14.44.35207\include\variant(12): warning STL4038: The contents of <variant> are available only with C++17 or later.
+    正在创建库 C:\Users\llf\Desktop\nullPro\nullPro\x64\Debug\/nullPro.lib 和对象 C:\Users\llf\Desktop\nullPro\nullPro\x64\Debug\/nullPro.exp
+  nullPro.vcxproj -> C:\Users\llf\Desktop\nullPro\nullPro\x64\Debug\nullPro.dll
